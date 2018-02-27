@@ -1,0 +1,11 @@
+{
+	"email_account" : {
+		"email" : "projetoaddestg@gmail.com",
+		"emailName" : "Bruno Fonseca",
+		"SMTP" : "Smtp.gmail.com",
+		"port" : "587",
+		"username" : "projetoaddestg@gmail.com",
+		"password" : "projetoadd123",
+		"encryption" : "tls"
+	}
+}
